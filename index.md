@@ -14,10 +14,14 @@ Syntax highlighted code block
 # Header 1
 <h1>Sonia Anthony</h1>
 ## Header 2
+<h2> Frontend Developer</h2>
 ### Header 3
 
 - Bulleted
 - List
+About
+Projects
+Contact
 
 1. Numbered
 2. List
@@ -26,6 +30,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+![Image] (src)file:///C:/Users/Sonia/Pictures/POrt%20Pic-2.jpg
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
